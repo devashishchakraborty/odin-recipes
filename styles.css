@@ -1,6 +1,7 @@
 .container{
-    margin-left: 250px;
-    margin-right: 250px;
+    margin: auto;
+    max-width: 1600px;
+    min-width: 1000px;
     border-radius: 20px;
     background-color: goldenrod;
     padding: 15px;
